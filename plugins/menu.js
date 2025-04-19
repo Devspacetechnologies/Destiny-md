@@ -37,8 +37,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 
 
-
-📌.✚𝙋𝙆 ✙ *XMD* ✦ *MENU* ▣ *LIST** ━━━◆*
+©𝐬𝐢𝐫 𝐌𝐚𝐫𝐤
 
 🕌 *Quranmenu*
 ♦ 🕌 .surah1
