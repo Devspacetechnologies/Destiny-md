@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://files.catbox.moe/0vlnn0.jpg" alt="Bot Image" width="300"/>
+  <img src="https://files.catbox.moe/qiwymc.jpg" alt="Bot Image" width="300"/>
 </div>
 
 ---
