@@ -27,8 +27,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363288304618280@newsletter',
-                        newsletterName: "PKDRILLER PAYMENT METHOD ",
+                        newsletterJid: '120363360513979999@newsletter',
+                        newsletterName: "𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 ",
                         serverMessageId: 143
                     }
                 }
