@@ -297,7 +297,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/ZCq1tcH/nexus-xmd.jpg` },
+                image: { url: `https://files.catbox.moe/qiwymc.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363288304618280@newsletter',
-                        newsletterName: 'MEXUS-XMD',
+                        newsletterName: '𝙼𝚊𝚛𝚔',
                         serverMessageId: 143
                     }
                 }
