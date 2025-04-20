@@ -1,8 +1,8 @@
 
 {
-    "bot-name": "NEXUS-XMD",
+    "bot-name": "DESTINY MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr HansTz",
-    "logo": "https://i.imgur.com/jsJSfta.jpeg",
+    "logo": "https://files.catbox.moe/qiwymc.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://hanstz-site-vortex-xmd.onrender.com/pair",
     "owner-verification": "nyamanyapolycarp75@gmail.com",
@@ -58,20 +58,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 Hans"
+      "value": "MARK"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255760774888"
+      "value": "254110550356"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NEXUS-XMD"
+      "value": "DESTINY MD"
 
       }, 
 
