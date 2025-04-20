@@ -13,7 +13,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-   *❦ \`NEXUS-XMD ＳＥＸＹ ＨＵＢ.🎀🍭\`*
+   *❦ \`𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝙼𝙳 ＳＥＸＹ ＨＵＢ.🎀🍭\`*
 
 1️⃣ *EJACULATION💦*
 2️⃣ *PENIS🍆*
