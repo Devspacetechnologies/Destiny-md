@@ -38,8 +38,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'CASEYRHODES TECH 👻',
+                    newsletterJid: '120363360513979999@newsletter',
+                    newsletterName: '𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇',
                     serverMessageId: 143
                 }
             }
