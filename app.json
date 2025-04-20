@@ -1,11 +1,11 @@
 {
-  "name": "Nexus-XMD",
-  "description": "Javascript WhatsApp bot made by pkdriller.",
-  "keywords": ["Nexus-XMD"],
+  "name": "𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝙼𝙳",
+  "description": "Javascript WhatsApp bot made by 𝙼𝙰𝚁𝙺.",
+  "keywords": ["𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝙼𝙳"],
   
   
-  "logo": "https://i.imgur.com/jsJSfta.jpeg",
-  "repository": "https://github.com/Pkdriller/NEXUS-XMD",
+  "logo": "https://files.catbox.moe/qiwymc.jpg",
+  "repository": "https://github.com/Devspacetechnologies/Destiny-md",
   "succes_url": "/",
 
   "stack": "container",
@@ -19,13 +19,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://i.imgur.com/jsJSfta.jpeg"
+      "value": "https://files.catbox.moe/qiwymc.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> Nexus-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> 𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝙼𝙳 IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -82,25 +82,25 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ Nexus xᴍᴅ🚀🔥*"
+      "value": "*𝚂𝚃𝙰𝚃𝚄𝚂 𝚂𝙴𝙴𝙽*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "𝙼𝙰𝚁𝙺"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254785392165"
+      "value": "254110550356"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ Nexus xᴍᴅ✦"
+      "value": "𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝙼𝙳"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦Nexus xᴍᴅ✦*"
+      "value": "*©𝙼𝙰𝚁𝙺*"
     },
 
       "DELETE_LINKS": {
