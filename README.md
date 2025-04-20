@@ -41,7 +41,7 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <p align="center">
 <b>HEROKU</b><br>
-<a href="https://github.com/Devspacetechnologies/Destiny-md">
+<a href="(https://dashboard.heroku.com/new?template=https://github.com/Devspacetechnologies/Destiny-xmd/turn-meh)">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 </p>
