@@ -25,7 +25,7 @@ cmd({
     if (!_0x4d3a95) {
       return _0x5b120e("*Please provide a video title or keywords to search for.*");
     }
-    _0x5b120e("*_🎬 NEXUS-XMD VIDEO FOUND UPLOADING PLZ WAIT_*");
+    _0x5b120e("*_🎬 DESTINY MD VIDEO FOUND UPLOADING PLZ WAIT_*");
     const _0x2110e1 = await yts(_0x4d3a95);
     if (!_0x2110e1.videos || _0x2110e1.videos.length === 0x0) {
       return _0x5b120e("❌ No results found for \"" + _0x4d3a95 + "\".");
