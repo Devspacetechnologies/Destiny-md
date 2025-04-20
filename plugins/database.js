@@ -33,10 +33,10 @@ cmd({
   fs.writeFileSync('./config.json', JSON.stringify(config, null, 2)); 
   reply(`*Prefix changed to:* ${newPrefix}`); 
   const { exec } = require("child_process"); 
-  reply("*_DATABASE UPDATE NEXUS-XMD RESTARTING NOW...🚀_*"); 
+  reply("*_DATABASE UPDATE 𝙳𝚎𝚜𝚝𝚒𝚗𝚢 𝙼𝙳 RESTARTING NOW...🚀_*"); 
   await sleep(1500); 
   exec("pm2 restart all"); 
-  reply("*_NEXUS-XMD STARTED NOW...🚀_*"); 
+  reply("*_𝙳𝚎𝚜𝚝𝚒𝚗𝚢 𝚖𝚍 STARTED NOW...🚀_*"); 
 });
 
 //========mode
@@ -63,10 +63,10 @@ cmd({
         config.MODE = "public";
         return reply("*_BOT MODE IS NOW SET TO PUBLIC ✅_*.")
         const {exec} = require("child_process")
-reply("*_DATABASE UPDATE NEXUS-XMD RESTARTING NOW...🚀_*")
+reply("*_DATABASE UPDATE 𝙳𝚎𝚜𝚝𝚒𝚗𝚢 𝚖𝚍 RESTARTING NOW...🚀_*")
 await sleep(1500)
 exec("pm2 restart all")
-reply("*_NEXUS-XMD STARTED NOW...🚀_*");
+reply("*_𝙳𝚎𝚜𝚝𝚒𝚗𝚢 𝚖𝚍 STARTED NOW...🚀_*");
     } else {
         return reply("❌ Invalid mode. Please use `.mode private` or `.mode public`.");
     }
