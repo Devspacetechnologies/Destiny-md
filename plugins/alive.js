@@ -18,10 +18,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃🛸┃• *⏳ Uptime*:  ${runtime(process.uptime())} 
 ┃🛸┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃🛸┃• *⚙️ HostName*: ${os.hostname()}
-┃🛸┃• *👨‍💻 Creator*: pkdriller 
+┃🛸┃• *👨‍💻 Creator*: 𝙼𝚊𝚛𝚔  
 ┃🛸┃• *🧬 Version*: 1.0.0
 ╰──────────────┈⊷
-> © NEXUS-𝐗𝐌𝐃`;
+> © 𝙳𝚎𝚜𝚝𝚒𝚗𝚢 𝙼𝙳`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363288304618280@newsletter',
-                    newsletterName: 'Nexus 𝑿𝒎𝒅 🥳',
+                    newsletterName: '𝙼𝚊𝚛𝚔 🥳',
                     serverMessageId: 143
                 }
             }
