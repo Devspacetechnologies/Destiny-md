@@ -59,15 +59,15 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://files.catbox.moe/tsjtpi.jpeg` },
+        image: { url: `https://i.imgur.com/frRGN59.jpeg` },
         caption: quranSurah,
         contextInfo: {
           mentionedJid: [m.sender], 
           forwardingScore: 999,  
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363288304618280@newsletter', 
-            newsletterName: 'NEXUSXMD', 
+            newsletterJid: '120363360513979999@newsletter', 
+            newsletterName: '𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇', 
             serverMessageId: 143
           }
         }
@@ -449,15 +449,15 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/tsjtpi.jpeg` },
+                image: { url: `https://i.imgur.com/frRGN59.jpeg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363288304618280@newsletter',
-                        newsletterName: 'NEXUSXMD',
+                        newsletterJid: '120363360513979999@newsletter',
+                        newsletterName: '𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇',
                         serverMessageId: 143
                     }
                 }
