@@ -128,3 +128,12 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 </h3>
 
 ##OWNER##
+
+
+
+<h3 align="center"> 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 
+</h3>
+
+𝐏𝐊 𝐃𝐑𝐈𝐋𝐋𝐄𝐑 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐁𝐀𝐒𝐄
+𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 𝐅𝐎𝐑 𝐒𝐄𝐕𝐄𝐑𝐀𝐋 𝐂𝐎𝐌𝐀𝐍𝐃 𝐀𝐃𝐃𝐈𝐓𝐈𝐎𝐍
+𝐊𝐄𝐈𝐓𝐇 𝐊𝐄𝐈𝐙𝐀𝐇 𝐅𝐎𝐑 𝐌𝐎𝐒𝐓 𝐎𝐅 𝐓𝐇𝐄 𝐀𝐏𝐈 𝐊𝐄𝐘𝐒
