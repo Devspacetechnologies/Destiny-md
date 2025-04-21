@@ -42,7 +42,7 @@ externalAdReply: {
 title: 'pldriller🇰🇪',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/pkdriller/PK-XMD" ,
+sourceUrl: "https://github.com/Devspacetechnologies/Destiny-md" ,
 thumbnailUrl: "https://files.catbox.moe/46ebpi.jpeg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -70,7 +70,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/pkdriller/NEXUS-XMD';
+    const githubRepoURL = 'https://github.com/Devspacetechnologies/Destiny-md';
 
     try {
         // Extract username and repo name from the URL
@@ -86,15 +86,15 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 NEXUS-XMD 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
 
-> *a whatsapp bot that enhance your experience with amazing features,developed by pkdriller 🇰🇪.*🤍
+> *a whatsapp bot that enhance your experience with amazing features,developed by 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 🇰🇪.*🤍
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 NEXUS-𝐗𝐌𝐃🫶* 
+*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐌𝐃🫶* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
-https://github.com/pkdriller/NEXUS-XMD
+https://github.com/Devspacetechnologies
 ──────────────────
 ${readMore}
 \`BOT NAME:\`🇰🇪
@@ -112,7 +112,7 @@ ${readMore}
 \`DESCRIPTION:\`📃
 > ${repoData.description || 'No description'}\n
 ──────────────────
-\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pkdriller ᴛᴇᴄʜ* 🎐`;
+\n> *© ᴘᴏᴡᴇʀᴇᴅ 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇* 🎐`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
@@ -123,8 +123,8 @@ ${readMore}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363288304618280@newsletter',
-                    newsletterName: '☇ pkdriller suppσrt  ⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterJid: '120363360513979999@newsletter',
+                    newsletterName: '𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇',
                     serverMessageId: 143
                 }
             }
@@ -140,8 +140,8 @@ ${readMore}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363288304618280@newsletter',
-                    newsletterName: '☇ pkdriller suppσrt⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterJid: '120363360513979999@newsletter',
+                    newsletterName: '𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇',
                     serverMessageId: 143
                 }
             }
