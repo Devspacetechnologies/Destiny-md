@@ -52,6 +52,6 @@ cmd({
     });
   } catch (_0x5e8828) {
     console.error(_0x5e8828);
-    _0x5b120e("❌ An error occurred while processing your request.");
+    _0x5b120e(" Something went wrong.");
   }
 });
