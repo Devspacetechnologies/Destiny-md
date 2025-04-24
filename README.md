@@ -143,3 +143,13 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <h3 align="center"> 3.𝗞𝗘𝗜𝗧𝗛 𝗞𝗘𝗜𝗭𝗔𝗛 𝗙𝗢𝗥 𝗔𝗣𝗜𝗦 
 </h3>
+
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝙰+𝙿𝚁𝙴𝙼𝙸𝚄𝙼+𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿+𝙱𝙾𝚃)](https://git.io/typing-svg)
+ <p align="lift">
+ <a 
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙼𝙰𝚁𝙺+.+𝚃𝙴𝙲𝙷)](https://git.io/typing-svg)
+ <p align="lift">
+ <a 
